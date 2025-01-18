@@ -1,4 +1,3 @@
-SavorySwap
 Welcome to SavorySwap! 🌟
 SavorySwap is the ultimate platform for food enthusiasts, where creativity meets convenience. Our vibrant community is a haven for culinary adventurers who love to share personalized recipes, discover new inspirations, and connect with fellow food lovers.
 
